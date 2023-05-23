@@ -30,3 +30,9 @@ iframe {
     display: block;
     margin: 0 auto;
 }
+
+body {
+  background-image: url('/Users/enriquemangion/Downloads/background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
