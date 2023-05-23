@@ -32,7 +32,7 @@ iframe {
 }
 
 body {
-  background-image: url(background.jpg);
+  background-image: center url(background.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
