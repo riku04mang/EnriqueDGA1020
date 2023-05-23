@@ -1,6 +1,10 @@
 body {
-    font-family: Century Gothic, Helvetica ;
+    font-family: Century Gothic, Helvetica;
     margin: 20px;
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 h1 {
@@ -29,10 +33,4 @@ a {
 iframe {
     display: block;
     margin: 0 auto;
-}
-
-body {
-  background-image: center url(background.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
 }
